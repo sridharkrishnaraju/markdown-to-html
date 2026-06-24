@@ -1,0 +1,8 @@
+site_name: Markdown to HTML Converter
+site_description: Convert Markdown to clean semantic HTML, with a live preview. Zero dependencies.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
