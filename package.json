@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/markdown-tool",
+  "version": "1.0.0",
+  "description": "Convert Markdown to clean semantic HTML, with a live preview. Zero dependencies. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "markdown-tool.js",
+  "unpkg": "markdown-tool.js",
+  "files": ["markdown-tool.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "markdown to html", "markdown converter", "md to html"],
+  "homepage": "https://sgbp.tech/tools/markdown-to-html",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
